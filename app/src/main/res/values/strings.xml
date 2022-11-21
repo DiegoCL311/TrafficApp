@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrafficAppV1</string>
+    <string name="title_activity_maps">TrafficApp</string>
+    <string name="action_geolocate">Selecciona ubi</string>
+    <string name="default_info_title">Ubicacion por defecto</string>
+    <string name="default_info_snippet">Lugares no encontrados, permisos deshabilitados.</string>
+</resources>
